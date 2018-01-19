@@ -82,6 +82,7 @@ You can now mine using a subaddress as your login.
 
 * https://pool.sumokoin.com
 * https://pool.sumokoin.ch
+* https://sumo.cxpools.com/
 
 More pools can be found on [sumopools.com](https://www.sumopools.com)
 
